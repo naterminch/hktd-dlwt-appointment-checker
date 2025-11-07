@@ -2,6 +2,8 @@
 
 Automatically checks for available timeslots for appointments for Issuance of HK full driving license/provisional driving license without test
 
+td will release available timeslots around 11:45am to 12:00pm.
+
 ## Usage
 
 ```bash
